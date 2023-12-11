@@ -1,4 +1,4 @@
-## About Ultimate POS
+## Ultimate POS
 
 Ultimate POS is a POS application by [Ultimate Fosters](http://ultimatefosters.com), a brand of [The Web Fosters](http://thewebfosters.com).
 
